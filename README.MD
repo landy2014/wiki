@@ -11,9 +11,13 @@
 ### 技术规范
 
 - [w3c组织](https://www.w3.org/)
+- [w3help](http://w3help.org/zh-cn/kb/)
+- [MDN](https://developer.mozilla.org/zh-CN/)
 
 ### 技术社区
 
+- [stackoverflow](http://stackoverflow.com/)
+- [w3cplus](http://www.w3cplus.com/)
 - [CNode](http://cnodejs.org)
 - [腾讯AlloyTeam](http://www.alloyteam.com/)
 - [uis](https://www.uis.cc/)
@@ -25,10 +29,12 @@
 - [阿里妈妈](http://thx.github.io/)
 - [FEX(百度前端)](http://fex.baidu.com/)
 - [angular中文社区](http://angularjs.cn/)
+- [掘金](http://gold.xitu.io/welcome/frontend)
 
 ### 设计社区
 
 - [腾讯CDC](http://cdc.tencent.com/)
+- [isux](http://isux.tencent.com/)
 
 ## 前端框架
 ### UI 框架
