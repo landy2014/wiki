@@ -13,6 +13,7 @@
 - [w3c组织](https://www.w3.org/)
 - [w3help](http://w3help.org/zh-cn/kb/)
 - [MDN](https://developer.mozilla.org/zh-CN/)
+- [css参考手册](http://www.css88.com/book/css/)
 
 ### 技术社区
 
@@ -54,6 +55,7 @@
 - [fineui(基于extjs+jquery+asp.net)](http://fineui.com/index.html)
 - [amazeui](http://amazeui.org/?_ver=2.x)
 - [purecss](http://www.purecss.org/)
+- [bootstrap](http://getbootstrap.com/)
 
 ### js框架
 
@@ -62,6 +64,17 @@
 - [avalon2](http://avalonjs.coding.me/)
 - [react](http://reactjs.cn/react/index.html)
 - [angular](https://angular.io/)
+
+### 在线API
+- [nodejs](http://nodeapi.ucdok.com/#/api/)
+- [bootstrap中文网](http://www.bootcss.com/)
+- [jquery](http://www.css88.com/jqapi-1.9/)
+- [zepto](http://www.css88.com/doc/zeptojs_api/)
+- [sass中文文档](http://www.css88.com/doc/sass/)
+- [less中文文档](http://www.css88.com/doc/less/)
+- [backbone](http://www.css88.com/doc/backbone/)
+- [Underscore](http://www.css88.com/doc/underscore/)
+- 
 
 ### 前端工程化
 #### 构建工具
