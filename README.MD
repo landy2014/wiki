@@ -35,6 +35,8 @@
 
 - [bootflat](http://bootflat.github.io/index.html)
 - [fineui(基于extjs+jquery+asp.net)](http://fineui.com/index.html)
+- [amazeui](http://amazeui.org/?_ver=2.x)
+- [purecss](http://www.purecss.org/)
 
 ### js框架
 
