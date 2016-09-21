@@ -21,8 +21,6 @@
 - [CNode](http://cnodejs.org)
 - [腾讯AlloyTeam](http://www.alloyteam.com/)
 - [uis](https://www.uis.cc/)
-- [去哪儿UED](http://ued.qunar.com)
-- [阿里UED](http://www.aliued.com/)
 - [github](http://www.github.com/)
 - [segmentfault](https://www.segmentfault.com)
 - [知乎](http://www.zhihu.com)
@@ -35,6 +33,19 @@
 
 - [腾讯CDC](http://cdc.tencent.com/)
 - [isux](http://isux.tencent.com/)
+- [阿里UED(国际)](http://www.aliued.com/)
+- [阿里UED(中国)](http://www.aliued.cn/)
+- [去哪儿UED](http://ued.qunar.com)
+
+### 代码管理
+
+- [git](https://git-scm.com/download/)
+- [sourceTree](https://www.sourcetreeapp.com/)
+- [smartSVN](http://www.smartsvn.com/)
+
+### 测试
+
+- [karma](https://karma-runner.github.io/0.13/index.html)
 
 ## 前端框架
 ### UI 框架
@@ -49,7 +60,6 @@
 - [vuejs](http://vuejs.org)
 
 ### 前端工程化
-
 #### 构建工具
 
 - [gulp](http://gulpjs.com/)
@@ -57,10 +67,7 @@
 - [fis3](http://fis.baidu.com/)
 - [webpack](http://webpack.github.io/)
 
-#### 构建工具模块
-
-
-
-
+#### npm模块
+- [npm modules](npm.md)
 
 不定时更新...
