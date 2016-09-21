@@ -58,6 +58,10 @@
 ### js框架
 
 - [vuejs](http://vuejs.org)
+- [avalon1](http://avalonjs.github.io/index2.html)
+- [avalon2](http://avalonjs.coding.me/)
+- [react](http://reactjs.cn/react/index.html)
+- [angular](https://angular.io/)
 
 ### 前端工程化
 #### 构建工具

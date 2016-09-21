@@ -10,13 +10,22 @@
 - [khf](https://www.npmjs.com/package/khf)
 
 ##### 别人的
-- [art-template](https://www.npmjs.com/package/art-template)
-- [body-parser](https://www.npmjs.com/package/body-parser)
-- [browser-sync](https://www.npmjs.com/package/browser-sync)
-- [del](https://www.npmjs.com/package/del)
-- [event-stream](https://www.npmjs.com/package/event-stream)
+**webserver持久化** 
+
+- [pm2](https://www.npmjs.com/package/pm2)
+
+**框架**
+
 - [express](https://www.npmjs.com/package/express)
-- [figlet](https://www.npmjs.com/package/figlet)
+- [koa](https://www.npmjs.com/package/koa)
+- [vue](https://www.npmjs.com/package/vue)
+- [webpack](https://www.npmjs.com/package/webpack)
+
+**webpak相关模块**  
+
+
+**fis相关模块**
+
 - [fis](https://www.npmjs.com/package/fis)
 - [fis-optimizer-png-compressor](https://www.npmjs.com/package/fis-optimizer-png-compressor)
 - [fis-parser-node-sass](https://www.npmjs.com/package/fis-parser-node-sass)
@@ -30,6 +39,9 @@
 - [fis3-preprocessor-cssprefixer](https://www.npmjs.com/package/fis3-preprocessor-cssprefixer)
 - [flatnest](https://www.npmjs.com/package/flatnest)
 - [glob](https://www.npmjs.com/package/glob)
+
+**gulp模块**
+
 - [gulp](https://www.npmjs.com/package/gulp)
 - [gulp-apidoc](https://www.npmjs.com/package/gulp-apidoc)
 - [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
@@ -75,28 +87,37 @@
 - [gulp-uglify](https://www.npmjs.com/package/gulp-uglify)
 - [gulp-uglifyjs](https://www.npmjs.com/package/gulp-uglifyjs)
 - [gulp-webpack](https://www.npmjs.com/package/gulp-webpack)
+
+**jquery**  
+
+- [jquery](https://www.npmjs.com/package/jquery)
+
+**数据库**  
+
+- [mongoose](https://www.npmjs.com/package/mongoose)
+
+**其它**  
+
 - [html-minifier](https://www.npmjs.com/package/html-minifier)
 - [image-min](https://www.npmjs.com/package/image-min)
 - [impress](https://www.npmjs.com/package/impress)
-- [jquery](https://www.npmjs.com/package/jquery)
-- [khf](https://www.npmjs.com/package/khf)
-- [koa](https://www.npmjs.com/package/koa)
 - [lodash](https://www.npmjs.com/package/lodash)
 - [markdown](https://www.npmjs.com/package/markdown)
 - [minimist](https://www.npmjs.com/package/minimist)
-- [mongoose](https://www.npmjs.com/package/mongoose)
 - [muicss](https://www.npmjs.com/package/muicss)
 - [multi-sprite](https://www.npmjs.com/package/multi-sprite)
 - [node-figlet](https://www.npmjs.com/package/node-figlet)
 - [node-sass](https://www.npmjs.com/package/node-sass)
 - [nrm](https://www.npmjs.com/package/nrm)
-- [pm2](https://www.npmjs.com/package/pm2)
 - [require-dir](https://www.npmjs.com/package/require-dir)
 - [sass-loader](https://www.npmjs.com/package/sass-loader)
 - [spritesmith](https://www.npmjs.com/package/spritesmith)
 - [validator](https://www.npmjs.com/package/validator)
 - [vinyl](https://www.npmjs.com/package/vinyl)
 - [vinyl-file](https://www.npmjs.com/package/vinyl-file)
-- [vue](https://www.npmjs.com/package/vue)
-- [webpack](https://www.npmjs.com/package/webpack)
-- [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server)
+- [art-template](https://www.npmjs.com/package/art-template)
+- [body-parser](https://www.npmjs.com/package/body-parser)
+- [browser-sync](https://www.npmjs.com/package/browser-sync)
+- [del](https://www.npmjs.com/package/del)
+- [event-stream](https://www.npmjs.com/package/event-stream)
+- [figlet](https://www.npmjs.com/package/figlet)
