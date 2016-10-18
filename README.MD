@@ -77,6 +77,9 @@
 - [angular](https://angular.io/)
 - [artDialog](http://aui.github.io/artDialog/doc/index.html)
 
+#### js性能测试
+- [jsprf](http://jsprf.com/)
+
 #### 在线API
 - [nodejs](http://nodeapi.ucdok.com/#/api/)
 - [bootstrap中文网](http://www.bootcss.com/)
@@ -94,6 +97,8 @@
 - [grunt](http://gruntjs.com/)
 - [fis3](http://fis.baidu.com/)
 - [webpack](http://webpack.github.io/)
+- [rollupjs](http://rollupjs.org/)
+- [browserify](http://browserify.org/)
 
 #### 样式动态化
 - [less](https://github.com/less/less.js)
